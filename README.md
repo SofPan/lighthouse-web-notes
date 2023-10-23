@@ -5,4 +5,6 @@ This repository contains all the notes taken by [Sofia Panchaud](https://github.
 
 ## Table of Contents
 * [Week 1](/Week_1)
-  * [Day 1](/Week_1/Day_1)
+  * [Notes Example](/Week_1/notes-exercise-example)
+  * [Git, Markdown and Dev Workflow](/Week_1/markdown-and-dev-workflow/)
+  
