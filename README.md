@@ -11,3 +11,5 @@ This repository contains all the notes taken by [Sofia Panchaud](https://github.
   * [Template Literals](/Week_1/template-literals/)
   * [Function Best Practices](/Week_1/function-best-practices/)
   * [Scope in Javascript](/Week_1/js-scope/)
+* [Week 2](/Week_2/)
+  * [Objects - Basic Concepts](/Week_2/objects/)
