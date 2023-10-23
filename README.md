@@ -10,3 +10,4 @@ This repository contains all the notes taken by [Sofia Panchaud](https://github.
   * [Command Line Args](/Week_1/command-line-args/)
   * [Template Literals](/Week_1/template-literals/)
   * [Function Best Practices](/Week_1/function-best-practices/)
+  * [Scope in Javascript](/Week_1/js-scope/)
