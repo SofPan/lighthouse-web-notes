@@ -13,3 +13,5 @@ This repository contains all the notes taken by [Sofia Panchaud](https://github.
   * [Scope in Javascript](/Week_1/js-scope/)
 * [Week 2](/Week_2/)
   * [Objects - Basic Concepts](/Week_2/objects/)
+  * [Functions as Objects](/Week_2/functions-as-objects/)
+  * [Higher Order Functions](/Week_2/higher-order-functions/)
